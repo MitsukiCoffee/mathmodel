@@ -149,7 +149,7 @@ git push origin coding
 
 ### 3. 整合各分支到 `main`（仅编程手操作）
 
-比赛最终提交前，将各分支的内容合并到 `main`：
+最终提交前，将各分支的内容合并到 `main`：
 
 ```bash
 # ① 切换到 main 分支
